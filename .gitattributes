@@ -1,0 +1,9 @@
+*.3dm			lfs
+*.3ds			lfs
+*.blend			lfs
+*.c4d			lfs
+*.collada		lfs
+*.dae			lfs
+*.dxf			lfs
+
+*.sln			text eol=crif
